@@ -6,6 +6,7 @@
 assets/cache/*
 system/cms/cache/*
 system/cms/config/database.php
+system/cms/config/config.php
 system/cms/logs/log-*.php
 nbproject/
 uploads/*
@@ -24,7 +25,6 @@ addons/shared_addons/libraries/*
 
 !addons/shared_addons/modules
 addons/shared_addons/modules/*
-!addons/shared_addons/modules/galleries
 !addons/shared_addons/modules/index.html
 
 !addons/shared_addons/widgets
@@ -48,4 +48,7 @@ addons/shared_addons/plugins/*
 !addons/shared_addons/field_types
 addons/shared_addons/field_types/*
 !addons/shared_addons/field_types/index.html
+<<<<<<< HEAD
 system/cms/config/config.php
+=======
+>>>>>>> b19d271eae55d72bac275934891192a37060ee9e
